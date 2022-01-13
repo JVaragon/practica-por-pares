@@ -1,0 +1,86 @@
+body{
+    background-color: orange;
+}
+
+h1.steve{
+    margin-top: 0%;
+    background-color: orange;
+    text-align: center;
+    color: white;
+    padding: 2%;
+    font-family: 'Sriracha', cursive
+}
+
+nav{
+    position: relative;
+    background-color: cadetblue;
+    top: -8px;
+    margin: -5px;
+    padding: 5px;
+    
+}
+a{
+    border: 2px solid;
+    border-color: black ;
+}
+section.blanco{
+    background-color: white;
+    position: relative;
+    top: 0px;
+    margin: -5px;
+}
+section.azulclaro{
+    background-color: rgb(146, 199, 201);
+    position: relative;
+    top: 0px;
+    margin: -5px
+
+}
+p.primero{
+    color: blue;
+    border-top: mediumblue solid 20px;
+}
+p.primero2{
+    color: blue;
+    border-bottom: mediumblue solid 20px ;
+}
+p.segundo{
+    color: red;
+    border-top: red solid 20px;
+    border-bottom: red solid 20px ;
+}
+section.abajo{
+    background-color: salmon;
+    position: relative;
+    padding: 1%;
+    top: 0px;
+    margin: -5px;
+}
+p.pie{
+    text-align: center;
+    display: block;
+    top:10px;
+}
+p.final{
+    background-color: orange;
+    color: orange;
+    margin-top: 0px;
+}
+img.stivi{
+    height: 150px;
+    width: 150px;
+    float: left;
+    position: relative;
+    top: -20px;
+}
+img.makinon{
+    height: 150px;
+    width: 150px;
+    float: right;
+    position:relative;
+    top: -20px;
+}
+
+section.crema{
+    background-color: blanchedalmond;
+}
