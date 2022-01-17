@@ -1,7 +1,9 @@
 body{
     background-color: orange;
 }
-
+hr{
+    color: rgb(195, 235, 233);
+}
 h1.steve{
     margin-top: 0%;
     background-color: orange;
@@ -83,4 +85,17 @@ img.makinon{
 
 section.crema{
     background-color: blanchedalmond;
+}
+ul.mac-ipod{
+    list-style-type: katakana-iroha;
+}
+
+ul.phone-watch{
+    list-style-type: cjk-ideographic;
+}
+ul.tv-ipad{
+    list-style-type: hiragana-iroha;
+}
+li{
+    line-height: 5%;
 }
